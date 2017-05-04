@@ -40,7 +40,7 @@
 
 ^ In this talk I'll discuss my journey and my thoughts about iOS development in particular and how to create good code in general.
 ^ This has worked for my, with my background.
-^ I haven't done any scientific research on this, so this is prueley based on experience.
+^ I haven't done any scientific research on this, so this is purely based on experience.
 
 ---
 
@@ -59,13 +59,6 @@
 ^ I'm sharing what works for me and for us as a company.
 ^ Maybe you could relate
 ^ If something is working, keep doing it. If you grow, refine.
-
----
-
-## These are
-# **not** rules
-
-^ I'm not trying to come up with a set of rules
 
 ---
 
@@ -100,7 +93,10 @@
 ---
 
 ## Work longer
-## **Lose life quality**
+## **Lose quality of life**
+
+^ If someone in here has done this, then they know this doesn't scale.
+^ If you lose 
 
 ---
 
@@ -118,7 +114,7 @@
 ---
 
 ## We're proud about the **quality of our work**
-### Not the quanity
+### Not the quantify
 
 ---
 
@@ -167,7 +163,7 @@
 
 ---
 
-## Quality is not *QA* responsability
+## Quality is not *QA* responsibility
 
 ---
 
@@ -329,14 +325,14 @@
 # Follow the money
 
 ^ Where is the money being spent?
-^ Is it being spent on all this perks that I discussed?
+^ Is it being spent on all these perks that I discussed?
 ^ Or is it being spent on other areas? What are those?
 
 ---
 
 # Travel to conferences
 
-^ At Axiom Zen we ask for people to go to conferences. We paid for their plane tickets and accomodations.
+^ At Axiom Zen we ask for people to go to conferences. We paid for their plane tickets and accommodations.
 
 ---
 
@@ -512,7 +508,7 @@
 ### and 
 # Code Reviews
 
-^ These is one of the best ways to share knowledge
+^ These are one of the best ways to share knowledge
 
 ---
 
@@ -583,14 +579,14 @@
 
 ---
 
-> "But we really, really need this by friday"
+> "But we really, really need this by Friday"
 -- Someone, right now.
 
 ^ If the stakes are high, then specially this is the moment to say no. If we really really need this for friday we need to be clear and professional to tell immediately when something is going wrong.
 
 ---
 
-# Be an **apprentice**
+# Be a **apprentice**
 
 ^ 
 
@@ -639,7 +635,7 @@
 
 # Project **quality**
 
-^ You need for you project to be focused on quality
+^ You need for your project to be focused on quality
 
 ---
 
