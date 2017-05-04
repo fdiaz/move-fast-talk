@@ -3,13 +3,16 @@
 
 ---
 
-![](img/spoiler.jpg)
+![inline 100%](img/spoiler.png)
 
 ---
 
 ## This talk 
 # **is not about**
 ## faster development
+
+^ No voy a enseñar nuevas herramientas
+^ No es un curso de speed reading
 
 ---
 
@@ -75,7 +78,7 @@
 
 ---
 
-![fit](img/yesterday.jpg)
+![inline 150%](img/yesterday.jpg)
 
 ---
 
@@ -86,6 +89,10 @@
 ## Work faster
 ## **Lose product quality**
 
+^ Don't wait for CI
+^ No PR
+^ No design
+
 ---
 
 # Option **B**
@@ -95,8 +102,8 @@
 ## Work longer
 ## **Lose quality of life**
 
-^ If someone in here has done this, then they know this doesn't scale.
-^ If you lose 
+^ Work for a living - Living to work
+^ Burndown
 
 ---
 
@@ -104,17 +111,22 @@
 
 ---
 
-![fit](img/marty-yesterday.jpg)
+![inline 150%](img/marty-yesterday.jpg)
 
 ---
 
 > Look at all these shitty lines of code I wrote today!
 -- No one, ever.
 
+^ Quien se jacta de esto?
+
 ---
 
 ## We're proud about the **quality of our work**
 ### Not the quantify
+
+^ Elegante
+^ Proud developer creates better work
 
 ---
 
@@ -235,6 +247,7 @@
 
 ^ So, as you're probably guessing.
 ^ I entered the startup world.
+^ I've discovered more perks
 
 ---
 
@@ -304,7 +317,7 @@
 
 ---
 
-![fit](img/dev-career.jpg)
+![inline 100%](img/dev-career.jpg)
 
 ^ I don't wanna become a manager
 
@@ -318,7 +331,7 @@
 ![fit](img/axiomzen.png)
 
 ^ So looking for this kind of things in 2015 I joined Axiom Zen.
-^ So how does Axiom Zen promote the things I'm looking for?
+^ Identify a company with this?
 
 ---
 
@@ -377,6 +390,9 @@
 
 # Flat hierarchy 
 # is a **lie**
+
+^ Natural roles of leadership
+^ For experience, knowledge, etc.
 
 ---
 
@@ -474,6 +490,9 @@
 # Form projects around teams
 ## **not the other way around**
 
+^ Bash experience
+^ Camo, Fernanda.
+
 ---
 
 ## A good team will continue being a good team
@@ -526,6 +545,8 @@
 
 # Architecture
 
+^ This is a talk in itself
+
 ---
 
 ![inline 50%](img/steve.jpg) [^5]
@@ -557,7 +578,7 @@
 
 ---
 
-![fit](img/yesterday.jpg)
+![inline 150%](img/yesterday.jpg)
 
 ---
 
@@ -583,18 +604,6 @@
 -- Someone, right now.
 
 ^ If the stakes are high, then specially this is the moment to say no. If we really really need this for friday we need to be clear and professional to tell immediately when something is going wrong.
-
----
-
-# Be a **apprentice**
-
-^ 
-
----
-
-# Be a **mentor**
-
-^ 
 
 ---
 
