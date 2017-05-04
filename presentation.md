@@ -248,7 +248,7 @@
 
 ---
 
-![](img/laundry.png)
+![](img/laundry.jpg)
 
 ^ And others do your laundry!
 
@@ -371,10 +371,6 @@
 
 ---
 
-![fit](img/theproject.jpg)
-
----
-
 # Flat hierarchy?
 
 ---
@@ -388,25 +384,14 @@
 
 ---
 
-
-
-^ This is what happens
-
----
-
 ### This is 
-## **informal** leadership [^*]
+## **informal** leadership [^3]
 
-[^*]: [Cut the bullshit: organizations with no hierarchy don’t exist](https://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80)
-
----
-
-# If everybody is reponsible
-## no one is responsible.
+[^3]: [Cut the bullshit: organizations with no hierarchy don’t exist](https://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80)
 
 ---
 
-# Make it explicit
+# Make it **explicit**
 
 ---
 
@@ -419,7 +404,8 @@
 
 ---
 
-# Who's in charge?
+# More structure
+## Distributed responsibilities
 
 ---
 
@@ -444,6 +430,11 @@
 
 ---
 
+# And then **prioritize**
+### (all of the time)
+
+---
+
 # Short iterations
 
 ---
@@ -452,9 +443,9 @@
 
 ---
 
-> When interrupted, it takes an average of 23 minutes and 15 seconds to get back to the task. [^3]
+> When interrupted, it takes an average of 23 minutes and 15 seconds to get back to the task. [^4]
 
-[^3]: [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
+[^4]: [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
 
 ---
 
@@ -473,7 +464,8 @@
 
 ---
 
-# Teams are more important than projects
+## **Teams** are more important 
+### than **projects**
 
 ---
 
@@ -497,7 +489,12 @@
 
 ---
 
-# Sharing knwoledge
+# Keep'em 
+#### small
+
+---
+
+# Sharing knowledge
 
 ---
 
@@ -511,7 +508,9 @@
 
 ---
 
-# Pull Requests and Code Reviews
+# Pull Requests 
+### and 
+# Code Reviews
 
 ^ These is one of the best ways to share knowledge
 
@@ -525,7 +524,7 @@
 
 ---
 
-![inline](img/template.png)
+![inline](img/template.jpg)
 
 ---
 
@@ -533,19 +532,20 @@
 
 ---
 
-![inline 100%](img/steve.png)[^4]
+![inline 50%](img/steve.jpg) [^5]
 
-[^4]: [What comes after VIPER? by Steve Powell](https://youtu.be/B30rHcVXfO8)
-
----
-
-# Xcode Templates
+[^5]: [What comes after VIPER? by Steve Powell](https://youtu.be/B30rHcVXfO8)
 
 ---
 
-![inline 100%](img/camo.png)[^5]
+## Xcode 
+# Templates
 
-[^5]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
+---
+
+![inline 50%](img/camo.jpg) [^6]
+
+[^6]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
 
 ---
 
@@ -569,9 +569,9 @@
 
 ---
 
-# Say **no** [^6]
+# Say **no** [^7]
 
-[^6]: Robert C. Martin - The Clean Coder
+[^7]: Robert C. Martin - The Clean Coder
 
 ---
 
@@ -590,11 +590,10 @@
 
 ---
 
-# 
-
----
-
 # Be ethical
+
+^ Don't work on something that will cause harm
+^ Don't work on something 
 
 ---
 
@@ -602,7 +601,7 @@
 
 ---
 
-## Increase productivity
+## Increased productivity
 # Move faster
 
 ---
