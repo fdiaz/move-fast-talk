@@ -3,13 +3,13 @@
 
 ---
 
-# SPOILER
+![](img/spoiler.jpg)
 
 ---
 
 ## This talk 
 # **is not about**
-## fast development
+## faster development
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 # Productivity 
-## is a by-product 
+## is a **by-product**
 # of Quality
 
 ----
@@ -45,7 +45,7 @@
 ---
 
 # Parts of 
-## this talk 
+## this talk _probably_
 # **don't** scale 
 
 ^ That's why parts of this talk don't scale.
@@ -65,67 +65,98 @@
 ---
 
 ## Chapter zero
-# Quality
+# **Quality**
 
 ---
 
-# I need this done by friday
+# Productivity 
+## is a **by-product**
+# of Quality
+
+---
+![fit](img/yesterday.jpg)
+
+---
+
+# Option **A**
 
 ---
 
 ## Work faster
-## Lose quality
+## **Lose quality**
 
 ---
 
-# We're proud about the quality of our work
-## Not the quanity
+# Option **B**
 
 ---
 
-# Quality gives happiness and cozy feelings
+![fit](img/marty-yesterday.jpg)
 
 ---
 
-# Less quality == More bugs
+> Look at all these shitty lines of code I wrote today!
+-- No one, ever.
 
 ---
 
-# More bugs == less productivity
+## We're proud about the **quality of our work**
+### Not the quanity
 
 ---
 
-# Spaghetti code == More time developing new features
+### **Less quality**
+## More production bugs
 
 ---
 
-# More time per feature == less productivity
+# More bugs
+## **less productivity**
+
+---
+![inline 100%](img/bug-cost.png) [^1]
+
+[^1]: [Integrating Software Assurance into the Software Development Life Cycle (SDLC)](https://www.researchgate.net/publication/255965523_Integrating_Software_Assurance_into_the_Software_Development_Life_Cycle_SDLC)
+
+^ Defects found in testing were 15 times more costly than if they were found during the design phase and 2 times more than if found during implementation.
 
 ---
 
-# Quality means fewer bugs
-# Quality means faster development cycles
+# 100x
 
 ---
 
-# Quality means better code, easier to implement new features
+### Spaghetti code
+## **More time per new feature**
 
 ---
 
-# Quality means better project managment
+# More time per feature 
+## **less productivity**
 
 ---
 
-# Quality is not the QA responsability, is everybody's
+# Quality means 
+## **fewer bugs**
 
 ---
 
-# Build it right the first time!
+# Quality means 
+## **faster feature cycles**
 
 ---
 
-![](img/simpsons.jpg)
-# Think of the market!
+## Who's in charge?
+
+---
+
+## Quality is not *QA* responsability
+
+---
+
+## Quality is a 
+# **company wide** 
+## effort
 
 ---
 
@@ -185,41 +216,72 @@
 
 ---
 
-# Startup world!
+# Startup!
 
 ^ So, as you're probably guessing.
 ^ I entered the startup world.
 
 ---
 
-# All that glitters is not gold
+![](img/house-cleaning.jpg)
+
+^ Some companies even clean your house a couple of times a month for you!
 
 ---
 
-# I don't want
-## to work in a place that 
-## cleans my laundry.
+![](img/laundry.png)
+
+^ And others do your laundry!
 
 ---
 
-# This doesn't increase the quality of the product. It just makes people stay longer at the workplace.
+![](img/ridiculous.gif)
+## That's ridiculous
+
+^ I'm a grown man. I can do my own laundry.
 
 ---
 
-# How many hours you worked in something vs how much of something you did in an hour.
+### Great work environments 
+## don't need perks as **bribes** [^2]
+
+[^2]: [5 Ridiculous Employee Perks That Could Backfire](https://www.inc.com/jt-odonnell/5-over-the-top-employee-perks-that-could-backfire.html)
 
 ---
 
-
-# I'm 30. What am I looking now?
-
----
-
-# Promotes Personal Growth
+## No increase 
+# in the **quality** 
+## of the product. 
 
 ---
 
-# Space for Learning
+## It just makes people 
+# **stay** at work **longer**
+
+---
+
+## How many hours 
+# you **worked in something**
+
+---
+
+## How much of something 
+# you **did in an hour**
+
+---
+
+# I'm 30
+## What do I value in a company?
+
+---
+
+## Promotes 
+#Personal Growth
+
+---
+
+## Space for 
+# Learning
 
 ---
 
@@ -227,13 +289,14 @@
 
 ---
 
-# Has a clear path of growth as a developer.
+![fit](img/dev-career.jpg)
 
 ^ I don't wanna become a manager
 
 ---
 
-# This things have a direct impact in the quality of the product
+# **Direct impact**
+## in the _quality_ of the product
 
 ---
 
@@ -276,26 +339,33 @@
 
 ---
 
-# Work in a company that values Quality
+## Work in a company 
+# that **values quality**
 
 ---
 
-## Chapter 2:
-# Projects
+## Chapter two
+# **The Project**
 
 ---
 
-# What is quality?
+![fit](img/theproject.jpg)
 
 ---
 
-# Good definition of requirements
+# What is **quality**?
+
+---
+
+## Good definition of
+# **requirements**
 
 ^ Peopleware
 
 ----
 
-# Requirements are met == Good Quality
+## Requirements are met 
+# Good Quality
 
 ---
 
@@ -316,7 +386,7 @@
 
 ---
 
-# This is informal leadrship
+# This is informal leadership
 
 ---
 
@@ -349,8 +419,12 @@
 
 ---
 
-## Chapter 3:
-# Team
+# Short iterations
+
+---
+
+## Chapter three
+# **The Team**
 
 ---
 
@@ -400,8 +474,8 @@
 
 ---
 
-# Chapter 4:
-## The Developer
+# Chapter four
+## **The Developer**
 
 ---
 
@@ -444,7 +518,6 @@
 
 ---
 
-# Danke schön 🍻
+# The End	 🍻
 
-### github.com/fdiaz/move-fast-talk
 ### @fco_diaz
