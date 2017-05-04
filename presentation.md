@@ -55,6 +55,11 @@
 # And I'm OK 👌 
 ## with that
 
+^ Not all of us work in big companies.
+^ I'm sharing what works for me and for us as a company.
+^ Maybe you could relate
+^ If something is working, keep doing it. If you grow, refine.
+
 ---
 
 ## These are
@@ -63,6 +68,8 @@
 ^ I'm not trying to come up with a set of rules
 
 ---
+
+![](img/quality.jpg)
 
 ## Chapter zero
 # **Quality**
@@ -74,6 +81,7 @@
 # of Quality
 
 ---
+
 ![fit](img/yesterday.jpg)
 
 ---
@@ -83,11 +91,20 @@
 ---
 
 ## Work faster
-## **Lose quality**
+## **Lose product quality**
 
 ---
 
 # Option **B**
+
+---
+
+## Work longer
+## **Lose life quality**
+
+---
+
+# Option **C**
 
 ---
 
@@ -159,6 +176,8 @@
 ## effort
 
 ---
+
+![](img/company.jpg)
 
 ## Chapter one
 # **The company**
@@ -327,7 +346,8 @@
 
 ---
 
-# Easy access to books, courses, learning material.
+# Access to 
+## books, courses, learning material
 
 ---
 
@@ -344,12 +364,62 @@
 
 ---
 
+![](img/projectmangmant.jpg)
+
 ## Chapter two
 # **The Project**
 
 ---
 
 ![fit](img/theproject.jpg)
+
+---
+
+# Flat hierarchy?
+
+---
+
+![inline](img/flat.png)
+
+---
+
+# Flat hierarchy 
+# is a **lie**
+
+---
+
+
+
+^ This is what happens
+
+---
+
+### This is 
+## **informal** leadership [^*]
+
+[^*]: [Cut the bullshit: organizations with no hierarchy don’t exist](https://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80)
+
+---
+
+# If everybody is reponsible
+## no one is responsible.
+
+---
+
+# Make it explicit
+
+---
+
+### We don't have managers
+# We have **keepers**
+
+^ A manager is a decision making role.
+^ A keeper is a safety role.
+^ A keeper is a facilitator, coordinator.
+
+---
+
+# Who's in charge?
 
 ---
 
@@ -369,45 +439,22 @@
 
 ---
 
-# What do to. Why?
+## Spend time thinking 
+# what do to
 
 ---
 
-# Flat hierarchy?
+# Short iterations
 
 ---
 
-# Flat hierarchy 
-# is a **lie**
+# Context switching
 
 ---
 
-# This is what happens
+> When interrupted, it takes an average of 23 minutes and 15 seconds to get back to the task. [^3]
 
----
-
-# This is informal leadership
-
----
-
-# If everybody is reponsible
-## no one is responsible.
-
----
-
-# Make it explicit
-
----
-
-### We don't have managers
-# We have **keepers**
-
-^ A manager is a decision making role.
-^ A keeper is a safety role.
-
----
-
-# Transparency & Clarity
+[^3]: [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
 
 ---
 
@@ -415,13 +462,11 @@
 
 ---
 
-# Rely on Async tools
+# Rely on async tools
 
 ---
 
-# Short iterations
-
----
+![](img/team.jpg)
 
 ## Chapter three
 # **The Team**
@@ -432,62 +477,124 @@
 
 ---
 
-# Is hard to form a good team. If it works, keep doing it!
+## It's hard to form 
+# a good team. 
+### If it works, keep doing it!
 
 ---
 
-# Form projects around teams, not the other way around.
+# Form projects around teams
+## **not the other way around**
 
 ---
 
-# A good team will continue being a good team, regardless of the project.
+## A good team will continue being a good team
+### regardless of the project
 
 ---
 
-# Enforcing quality
+# Creating good teams
+
+---
+
+# Sharing knwoledge
 
 ---
 
 # Study groups
 
+^ Every week we allocate 1 hour for our iOS study group.
+^ In there we discuss different topics
+^ We agree on standards
+^ We share what we worked on last week
+^ We discuss everything
+
 ---
 
 # Pull Requests and Code Reviews
 
----
-
-# Code reviews are NOT to review syntax
-
-## There's a small thing called a Linter y'know?
+^ These is one of the best ways to share knowledge
 
 ---
 
-# Automate all the things!
+![inline 200%](img/bad-codereview.png)
 
 ---
 
-# Xcode templates
+![inline](img/good-codereview.png)
 
 ---
 
-# Snippets
+![inline](img/template.png)
 
 ---
+
+# Architecture
+
+---
+
+![inline 100%](img/steve.png)[^4]
+
+[^4]: [What comes after VIPER? by Steve Powell](https://youtu.be/B30rHcVXfO8)
+
+---
+
+# Xcode Templates
+
+---
+
+![inline 100%](img/camo.png)[^5]
+
+[^5]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
+
+---
+
+![](img/developer.jpg)
 
 # Chapter four
 ## **The Developer**
 
 ---
 
-# Wisdom teeth removal
+# Story time!
+## Wisdom teeth removal
 
 ---
 
-# Say no
+![fit](img/yesterday.jpg)
+
+---
+
+# Option **D**
+
+---
+
+# Say **no** [^6]
+
+[^6]: Robert C. Martin - The Clean Coder
 
 ---
 
 # Be professional
+
+^ Equally as what happened with my dentist. The professional thing to say is No.
+^ If the scope is too big. Say no.
+^ If there's not enough time. Say no.
+
+---
+
+> "But we really, really need this by friday"
+-- Someone, right now.
+
+^ If the stakes are high, then specially this is the moment to say no. If we really really need this for friday we need to be clear and professional to tell immediately when something is going wrong.
+
+---
+
+# 
+
+---
+
+# Be ethical
 
 ---
 
@@ -495,15 +602,18 @@
 
 ---
 
-# Increase productivity == Move fast
+## Increase productivity
+# Move faster
 
 ---
 
-# Increased quality == increased productivity
+# Increased quality
+## Increased productivity
 
 ---
 
-# Focus on Quality first.
+# Focus on 
+# **Quality first**
 
 ---
 
@@ -511,10 +621,27 @@
 
 ---
 
-# Company quality
-# Project quality
-# Team quality
-# Be a professional Developer
+# Company **quality**
+
+---
+
+# Project **quality**
+
+---
+
+# Team **quality**
+
+---
+
+# Be a **professional** developer
+
+---
+
+# TLDR
+
+---
+
+![](img/slow-down.jpg)
 
 ---
 
