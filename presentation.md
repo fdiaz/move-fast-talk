@@ -58,8 +58,8 @@
 
 ---
 
-# Chapter one
-## The company
+## Chapter one
+# **The company**
 
 ---
 
@@ -80,21 +80,21 @@
 
 ---
 
-![fit](img/pingpong.jpg)
+![](img/pingpong.jpg)
 
 ^ A ping pong table. 
 ^ Because they're cool.
 
 ---
 
-![fit](img/tacataca.jpg)
+![](img/tacataca.jpg)
 
 ^ A foosball table.
 ^ Because they're cool.
 
 ---
 
-![fit](img/suit.jpg)
+![](img/suit.jpg)
 
 ^ I didn't wanna have to work in a suit.
 ^ Becuase, you know, they're not cool.
@@ -107,7 +107,7 @@
 
 ---
 
-![fit](img/tapbeer.jpg)
+![](img/tapbeer.jpg)
 
 ^ Is beer on tap.
 ^ But you know, that's a stretch goal.
@@ -125,13 +125,15 @@
 
 ---
 
-# I don't want to work in a place that cleans my laundry.
-
-^ This 
+# I don't want
+## to work in a place that 
+## cleans my laundry.
 
 ---
 
-# Turning Developers into spoiled brats since early 2000s!
+## Turning Developers into 
+# **spoiled brats**
+## since early 2000s!
 
 ---
 
@@ -171,6 +173,14 @@
 
 ---
 
+# Follow the money
+
+^ Where is the money being spent?
+^ Is it being spent on all this perks that I discussed?
+^ Or is it being spent on other areas? What are those?
+
+---
+
 # Travel to conferences
 
 ^ At Axiom Zen we ask for people to go to conferences. We paid for their plane tickets and accomodations.
@@ -183,13 +193,66 @@
 
 ---
 
+# Easy access to books, courses, learning material.
+
+---
+
 ## Allocate time to
 # **study**
+
+^ As a developer you need to be learning constantly
+^ I want to work for a company that not only recognizes, but promotes it allocating work time for this.
 
 ---
 
 ## Chapter 2:
 # Projects
+
+---
+
+# Flat hierarchy?
+
+---
+
+# Flat hierarchy 
+# is a **lie**
+
+---
+
+# This is what happens
+
+---
+
+# This is informal
+
+---
+
+# If everybody is reponsible
+## no one is responsible.
+
+---
+
+# Make it explicit
+
+---
+
+### We don't have managers
+# We have **keepers**
+
+^ A manager is a decision making role.
+^ A keeper is a safety role.
+
+---
+
+# Transparency & Clarity
+
+---
+
+# Work like you're remote.
+
+---
+
+# Rely on Async tools
 
 ---
 
