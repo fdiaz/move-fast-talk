@@ -19,6 +19,12 @@
 
 ---
 
+# Productivity 
+## is a by-product 
+# of Quality
+
+----
+
 ## ⚠️ FAIR WARNING ⚠️
 
 ---
@@ -55,6 +61,71 @@
 # **not** rules
 
 ^ I'm not trying to come up with a set of rules
+
+---
+
+## Chapter zero
+# Quality
+
+---
+
+# I need this done by friday
+
+---
+
+## Work faster
+## Lose quality
+
+---
+
+# We're proud about the quality of our work
+## Not the quanity
+
+---
+
+# Quality gives happiness and cozy feelings
+
+---
+
+# Less quality == More bugs
+
+---
+
+# More bugs == less productivity
+
+---
+
+# Spaghetti code == More time developing new features
+
+---
+
+# More time per feature == less productivity
+
+---
+
+# Quality means fewer bugs
+# Quality means faster development cycles
+
+---
+
+# Quality means better code, easier to implement new features
+
+---
+
+# Quality means better project managment
+
+---
+
+# Quality is not the QA responsability, is everybody's
+
+---
+
+# Build it right the first time!
+
+---
+
+![](img/simpsons.jpg)
+# Think of the market!
 
 ---
 
@@ -131,11 +202,14 @@
 
 ---
 
-## Turning Developers into 
-# **spoiled brats**
-## since early 2000s!
+# This doesn't increase the quality of the product. It just makes people stay longer at the workplace.
 
 ---
+
+# How many hours you worked in something vs how much of something you did in an hour.
+
+---
+
 
 # I'm 30. What am I looking now?
 
@@ -159,10 +233,7 @@
 
 ---
 
-# A culture that doesn't promote drinking in the office.
-
-^ And don't get me wrong. I love beer.
-^ But there's a time and a place for beer, and there's a time and a place for work.
+# This things have a direct impact in the quality of the product
 
 ---
 
@@ -205,8 +276,30 @@
 
 ---
 
+# Work in a company that values Quality
+
+---
+
 ## Chapter 2:
 # Projects
+
+---
+
+# What is quality?
+
+---
+
+# Good definition of requirements
+
+^ Peopleware
+
+----
+
+# Requirements are met == Good Quality
+
+---
+
+# What do to. Why?
 
 ---
 
@@ -223,7 +316,7 @@
 
 ---
 
-# This is informal
+# This is informal leadrship
 
 ---
 
@@ -256,15 +349,98 @@
 
 ---
 
+## Chapter 3:
+# Team
+
+---
+
+# Teams are more important than projects
+
+---
+
+# Is hard to form a good team. If it works, keep doing it!
+
+---
+
+# Form projects around teams, not the other way around.
+
+---
+
+# A good team will continue being a good team, regardless of the project.
+
+---
+
+# Enforcing quality
+
+---
+
+# Study groups
+
+---
+
+# Pull Requests and Code Reviews
+
+---
+
+# Code reviews are NOT to review syntax
+
+## There's a small thing called a Linter y'know?
+
+---
+
+# Automate all the things!
+
+---
+
+# Xcode templates
+
+---
+
+# Snippets
+
+---
+
+# Chapter 4:
+## The Developer
+
+---
+
+# Wisdom teeth removal
+
+---
+
+# Say no
+
+---
+
+# Be professional
+
+---
+
 # Conclusion
 
 ---
 
-# We already knew this
+# Increase productivity == Move fast
 
---- 
+---
 
-# Let's put it in practice!
+# Increased quality == increased productivity
+
+---
+
+# Focus on Quality first.
+
+---
+
+# There's no silver bullet
+
+---
+
+# Company quality
+# Project quality
+# Team quality
+# Be a professional Developer
 
 ---
 
