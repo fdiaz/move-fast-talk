@@ -590,24 +590,33 @@
 
 ---
 
-# Be ethical
+# Be an **apprentice**
 
-^ Don't work on something that will cause harm
-^ Don't work on something 
-
----
-
-# Conclusion
+^ 
 
 ---
 
+# Be a **mentor**
+
+^ 
+
+---
+
+# In summary...
+
+---
+
+# **Move faster**
 ## Increased productivity
-# Move faster
+
+^ To move faster you need to increase your productivity
 
 ---
 
-# Increased quality
+# **Increased quality**
 ## Increased productivity
+
+^ But to increase your productivity you need to increase the quality of what you're producing.
 
 ---
 
@@ -618,21 +627,31 @@
 
 # There's no silver bullet
 
+^ But to get there, there's no silver bullet.
+
 ---
 
 # Company **quality**
+
+^ You need for the company to be focused on quality
 
 ---
 
 # Project **quality**
 
+^ You need for you project to be focused on quality
+
 ---
 
 # Team **quality**
 
+^ You need your team to be focused on quality
+
 ---
 
 # Be a **professional** developer
+
+^ And you need to act as a professional.
 
 ---
 
