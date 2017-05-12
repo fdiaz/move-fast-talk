@@ -295,7 +295,7 @@
 ---
 
 ## [fit] How many hours 
-# [fit] you **worked in something**
+# [fit] you _**worked in something**_
 
 ^ And this is not a good way to measure productivity
 
