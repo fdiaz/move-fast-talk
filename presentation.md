@@ -1,5 +1,5 @@
-# Move **fast** 
-## and keep your **code quality**
+# [fit] Move _**fast**_
+## [fit] and keep your _**code quality**_
 
 ---
 
@@ -7,39 +7,40 @@
 
 ---
 
-## This talk 
-# **is not about**
-## faster development
+## [fit] This talk 
+# [fit] _**is not about**_
+## [fit] faster development
 
 ^ No voy a enseñar nuevas herramientas
 ^ No es un curso de speed reading
 
 ---
 
-## This talk 
-# **is about**
-## quality
+## [fit] This talk 
+# [fit] _**is about**_
+## [fit] quality
 
 ---
 
-# Productivity 
-## is a **by-product**
-# of Quality
+# [fit] Productivity 
+## [fit] is a _**by-product**_
+# [fit] of Quality
 
 ----
 
-## ⚠️ FAIR WARNING ⚠️
+## [fit] ⚠️ FAIR WARNING ⚠️
 
 ---
 
-# Not for lone wolfs 🐺
+# [fit] Not for 
+# [fit] lone wolfs 🐺
 
 ^ This talk is not for people working by themselves.
 
 ---
 
-# My journey
-## This is not a scientific talk
+# [fit] My journey
+## [fit] This is not a scientific talk
 
 ^ In this talk I'll discuss my journey and my thoughts about iOS development in particular and how to create good code in general.
 ^ This has worked for my, with my background.
@@ -47,16 +48,16 @@
 
 ---
 
-# Parts of 
-## this talk _probably_
-# **don't** scale 
+# [fit] Parts of 
+## [fit] this talk _**probably**_
+# [fit] _**don't**_ scale 
 
 ^ That's why parts of this talk don't scale.
 
 ---
 
-# And I'm OK 👌 
-## with that
+# [fit] And I'm OK 👌 
+## [fit] with that
 
 ^ Not all of us work in big companies.
 ^ I'm sharing what works for me and for us as a company.
@@ -72,13 +73,13 @@
 
 ---
 
-# Productivity 
-## is a **by-product**
-# of Quality
+# [fit] Productivity 
+## [fit] is a _**by-product**_
+# [fit] of Quality
 
 ---
 
-![inline 150%](img/yesterday.jpg)
+![inline 180%](img/yesterday.jpg)
 
 ---
 
@@ -86,8 +87,8 @@
 
 ---
 
-## Work faster
-## **Lose product quality**
+## [fit] Work faster
+## [fit] _**Lose product quality**_
 
 ^ Don't wait for CI
 ^ No PR
@@ -99,8 +100,8 @@
 
 ---
 
-## Work longer
-## **Lose quality of life**
+## [fit] Work longer
+## [fit] _**Lose quality of life**_
 
 ^ Work for a living - Living to work
 ^ Burndown
@@ -111,7 +112,7 @@
 
 ---
 
-![inline 150%](img/marty-yesterday.jpg)
+![inline 200%](img/marty-yesterday.jpg)
 
 ---
 
@@ -122,24 +123,25 @@
 
 ---
 
-## We're proud about the **quality of our work**
-### Not the quantify
+## [fit] We're proud about 
+## [fit] the _**quality of our work**_
+### [fit] Not the quantity
 
 ^ Elegante
 ^ Proud developer creates better work
 
 ---
 
-### **Less quality**
-## More production bugs
+### [fit] _**Less quality**_
+## [fit] More production bugs
 
 ---
 
-# More bugs
-## **less productivity**
+# [fit] More bugs
+## [fit] _**less productivity**_
 
 ---
-![inline 100%](img/bug-cost.png) [^1]
+![inline 110%](img/bug-cost.png) [^1]
 
 [^1]: [Integrating Software Assurance into the Software Development Life Cycle (SDLC)](https://www.researchgate.net/publication/255965523_Integrating_Software_Assurance_into_the_Software_Development_Life_Cycle_SDLC)
 
@@ -147,41 +149,43 @@
 
 ---
 
-# 100x
+# [fit] 100x
 
 ---
 
-### Spaghetti code
-## **More time per new feature**
+### [fit] Spaghetti code
+## [fit] _**More time per new feature**_
 
 ---
 
-# More time per feature 
-## **less productivity**
+# [fit] More time per feature 
+## [fit] _**less productivity**_
 
 ---
 
-# Quality means 
-## **fewer bugs**
+# [fit] Quality means 
+## [fit] _**fewer bugs**_
 
 ---
 
-# Quality means 
-## **faster feature cycles**
+# [fit] Quality means 
+## [fit] _**faster development**_
+## [fit] per feature
 
 ---
 
-## Who's in charge?
+## [fit] Who's in charge?
 
 ---
 
-## Quality is not *QA* responsibility
+## [fit] Quality is _**not**_
+## [fit] QA's responsibility
 
 ---
 
-## Quality is a 
-# **company wide** 
-## effort
+## [fit] Quality is a 
+# [fit] _**company wide**_
+## [fit] effort
 
 ---
 
@@ -192,20 +196,20 @@
 
 ---
 
-# 2010
+# [fit] 2010
 
 ^ I started doing iOS development in 2010
 ^ And when I started there I had a list of things I'd like for the place where I was going to work to have.
 
 ---
 
-# Early 20s
+# [fit] Early 20s
 
 ^ Tha means I started working as a professional developer in my early 20s.
 
 ---
 
-# Must haves
+# [fit] Must haves:
 
 ---
 
@@ -230,7 +234,7 @@
 
 ---
 
-# Nice to have
+# [fit] Nice to have:
 
 ^ And something that would be nice to have, but I don't really need it.
 
@@ -243,7 +247,7 @@
 
 ---
 
-# Startup!
+# [fit] Startup!
 
 ^ So, as you're probably guessing.
 ^ I entered the startup world.
@@ -270,50 +274,57 @@
 
 ---
 
-### Great work environments 
-## don't need perks as **bribes** [^2]
+### [fit] Great work environments [^2] 
+## [fit] don't need perks
+## [fit] as _**bribes**_ 
 
 [^2]: [5 Ridiculous Employee Perks That Could Backfire](https://www.inc.com/jt-odonnell/5-over-the-top-employee-perks-that-could-backfire.html)
 
 ---
 
-## No increase 
-# in the **quality** 
-## of the product. 
+## [fit] No increase 
+# [fit] in the _**quality**_
+## [fit] of the product. 
 
 ---
 
-## It just makes people 
-# **stay** at work **longer**
+## [fit] It just makes people 
+# [fit] _**stay**_ at work 
+# [fit] _**longer**_
 
 ---
 
-## How many hours 
-# you **worked in something**
+## [fit] How many hours 
+# [fit] you **worked in something**
+
+^ And this is not a good way to measure productivity
 
 ---
 
-## How much of something 
-# you **did in an hour**
+## [fit] How much of something 
+# [fit] you _**did in an hour**_
+
+^ A good measure for productivity is
 
 ---
 
-# I'm 30
-## What do I value in a company?
+# [fit] I'm 30
+## [fit] What do I value in a company?
 
 ---
 
-## Promotes 
-#Personal Growth
+## [fit] Promotes 
+# [fit] Personal Growth
 
 ---
 
-## Space for 
-# Learning
+## [fit] Space for 
+# [fit] _**Learning**_
 
 ---
 
-# Work-Life balance
+# [fit] Work-Life 
+# [fit] _**balance**_
 
 ---
 
@@ -323,8 +334,18 @@
 
 ---
 
-# **Direct impact**
-## in the _quality_ of the product
+# [fit] _**Direct impact**_
+# [fit] in the _**quality**_ 
+# [fit] of your life
+
+---
+
+# [fit] Follow the 
+# [fit] money
+
+^ Where is the money being spent?
+^ Is it being spent on all these perks that I discussed?
+^ Or is it being spent on other areas? What are those?
 
 ---
 
@@ -335,41 +356,35 @@
 
 ---
 
-# Follow the money
-
-^ Where is the money being spent?
-^ Is it being spent on all these perks that I discussed?
-^ Or is it being spent on other areas? What are those?
-
----
-
-# Travel to conferences
+# [fit] Travel to 
+# [fit] conferences
 
 ^ At Axiom Zen we ask for people to go to conferences. We paid for their plane tickets and accommodations.
 
 ---
 
-# Speak at conferences
+# [fit] Speak at 
+# [fit] conferences
 
 ^ We particularly encourage people to speak at these conferences.
 
 ---
 
-# Access to 
-## books, courses, learning material
+# [fit] Access to 
+## [fit] books, courses, learning material
 
 ---
 
-## Allocate time to
-# **study**
+## [fit]  Allocate time to
+# [fit] _**study**_
 
 ^ As a developer you need to be learning constantly
 ^ I want to work for a company that not only recognizes, but promotes it allocating work time for this.
 
 ---
 
-## Work in a company 
-# that **values quality**
+## [fit] Work in a company 
+# [fit] that _**values quality**_
 
 ---
 
@@ -380,35 +395,31 @@
 
 ---
 
-# Flat hierarchy?
+# [fit] Flat hierarchy?
 
 ---
 
-![inline](img/flat.png)
-
----
-
-# Flat hierarchy 
-# is a **lie**
+# [fit] Flat hierarchy 
+# [fit] is a _**lie**_
 
 ^ Natural roles of leadership
 ^ For experience, knowledge, etc.
 
 ---
 
-### This is 
-## **informal** leadership [^3]
+### [fit] This is 
+## [fit] _**informal**_ leadership [^3]
 
 [^3]: [Cut the bullshit: organizations with no hierarchy don’t exist](https://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80)
 
 ---
 
-# Make it **explicit**
+# [fit] Make it _**explicit**_
 
 ---
 
-### We don't have managers
-# We have **keepers**
+# [fit] We don't have managers
+# [fit] We have _**keepers**_
 
 ^ A manager is a decision making role.
 ^ A keeper is a safety role.
@@ -416,42 +427,42 @@
 
 ---
 
-# More structure
-## Distributed responsibilities
+# [fit] More structure
+## [fit] Distributed responsibilities
 
 ---
 
-# What is **quality**?
+# [fit] What is _**quality**_?
 
 ---
 
-## Good definition of
-# **requirements**
+## [fit] Good definition of
+# [fit] **requirements**
 
 ^ Peopleware
 
 ----
 
-## Requirements are met 
-# Good Quality
+## [fit] Requirements are met 
+# [fit] Good Quality
 
 ---
 
-## Spend time thinking 
-# what do to
+## [fit] Spend time thinking 
+# [fit] what do to
 
 ---
 
-# And then **prioritize**
-### (all of the time)
+# [fit] And then _**prioritize**_
+# [fit] -- all of the time --
 
 ---
 
-# Short iterations
+# [fit] Short iterations
 
 ---
 
-# Context switching
+# [fit] Context switching
 
 ---
 
@@ -461,11 +472,11 @@
 
 ---
 
-# Work like you're remote.
+# [fit] Work like you're remote.
 
 ---
 
-# Rely on async tools
+# [fit] Rely on async tools
 
 ---
 
@@ -476,44 +487,44 @@
 
 ---
 
-## **Teams** are more important 
-### than **projects**
+## [fit] _**Teams**_ are more important 
+### [fit] than _**projects**_
 
 ---
 
-## It's hard to form 
-# a good team. 
-### If it works, keep doing it!
+## [fit] It's hard to form 
+# [fit] a good team. 
+### [fit] If it works, keep doing it!
 
 ---
 
-# Form projects around teams
-## **not the other way around**
+# [fit] Form projects around teams
+## [fit] _**not the other way around**_
 
 ^ Bash experience
 ^ Camo, Fernanda.
 
 ---
 
-## A good team will continue being a good team
-### regardless of the project
+## [fit] A good team will continue being a good team
+### [fit] regardless of the project
 
 ---
 
-# Creating good teams
+# [fit] Creating good teams
 
 ---
 
-# Keep'em 
+# [fit] Keep'em 
 #### small
 
 ---
 
-# Sharing knowledge
+# [fit] Sharing knowledge
 
 ---
 
-# Study groups
+# [fit] Study groups
 
 ^ Every week we allocate 1 hour for our iOS study group.
 ^ In there we discuss different topics
@@ -543,7 +554,7 @@
 
 ---
 
-# Architecture
+# [fit] Architecture
 
 ^ This is a talk in itself
 
@@ -555,8 +566,8 @@
 
 ---
 
-## Xcode 
-# Templates
+## [fit] Xcode 
+# [fit] Templates
 
 ---
 
@@ -573,7 +584,7 @@
 
 ---
 
-# Story time!
+# [fit] Story time!
 ## Wisdom teeth removal
 
 ---
@@ -586,13 +597,13 @@
 
 ---
 
-# Say **no** [^7]
+# [fit] Say **no** [^7]
 
 [^7]: Robert C. Martin - The Clean Coder
 
 ---
 
-# Be professional
+# [fit] Be professional
 
 ^ Equally as what happened with my dentist. The professional thing to say is No.
 ^ If the scope is too big. Say no.
@@ -607,60 +618,64 @@
 
 ---
 
-# In summary...
+# [fit] In summary...
 
 ---
 
-# **Move faster**
-## Increased productivity
+# [fit] _**Move faster**_
+## [fit] by ⬆️ your productivity
 
 ^ To move faster you need to increase your productivity
 
 ---
 
-# **Increased quality**
-## Increased productivity
+# [fit] ⬆️ productivity
+## [fit] by increasing the
+# [fit] _**quality**_
 
 ^ But to increase your productivity you need to increase the quality of what you're producing.
 
 ---
 
-# Focus on 
-# **Quality first**
+# [fit] **Quality first**
+
+^ Focus on quality first
 
 ---
 
-# There's no silver bullet
+# [fit] There's no silver bullet
 
 ^ But to get there, there's no silver bullet.
 
 ---
 
-# Company **quality**
+# [fit] Company
 
 ^ You need for the company to be focused on quality
 
 ---
 
-# Project **quality**
+# [fit] Project
 
 ^ You need for your project to be focused on quality
 
 ---
 
-# Team **quality**
+# [fit] Team
 
 ^ You need your team to be focused on quality
 
 ---
 
-# Be a **professional** developer
+# [fit] Be a 
+# [fit] _**professional**_ 
+# [fit] developer
 
 ^ And you need to act as a professional.
 
 ---
 
-# TLDR
+# [fit] TLDR
 
 ---
 
@@ -668,6 +683,7 @@
 
 ---
 
-# The End	 🍻
+# [fit] Danke schön
 
-### @fco_diaz
+# _**franciscodiaz.cl**_
+# @fco_diaz
