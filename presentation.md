@@ -11,8 +11,8 @@
 # [fit] _**is not about**_
 ## [fit] faster development
 
-^ No voy a enseñar nuevas herramientas
-^ No es un curso de speed reading
+^ No new tools
+^ Not a speed reading course
 
 ---
 
@@ -26,9 +26,13 @@
 ## [fit] is a _**by-product**_
 # [fit] of Quality
 
+^ This is the premise of my talk. And I'll explore this in further detail later on in a bit.
+
 ----
 
-## [fit] ⚠️ FAIR WARNING ⚠️
+## [fit] ⚠️ _**FAIR WARNING**_ ⚠️
+
+^ But first a warning.
 
 ---
 
@@ -36,33 +40,38 @@
 # [fit] lone wolfs 🐺
 
 ^ This talk is not for people working by themselves.
+^ Not for freelancers
+^ Not for single person companies.
 
 ---
 
-# [fit] My journey
-## [fit] This is not a scientific talk
+# [fit] _**My experience**_
+## [fit] Not a scientific paper
 
 ^ In this talk I'll discuss my journey and my thoughts about iOS development in particular and how to create good code in general.
 ^ This has worked for my, with my background.
 ^ I haven't done any scientific research on this, so this is purely based on experience.
 
 ---
+# [fit] Francisco 
+# [fit] Díaz
 
-# [fit] Parts of 
-## [fit] this talk _**probably**_
-# [fit] _**don't**_ scale 
+# _**franciscodiaz.cl**_
+# @fco_diaz
 
-^ That's why parts of this talk don't scale.
+^ I'm Francisco
+^ I'm 30
+^ I started doing iOS Development in 2010
+^ Santiago, Chile
 
 ---
 
-# [fit] And I'm OK 👌 
-## [fit] with that
+![inline 50%](img/axiomzen.png)
 
-^ Not all of us work in big companies.
-^ I'm sharing what works for me and for us as a company.
-^ Maybe you could relate
-^ If something is working, keep doing it. If you grow, refine.
+^ I work at Axiom Zen.
+^ We're currently around 60 people
+^ Between 5-10 iOS developers
+^ We strive for quality.
 
 ---
 
@@ -80,6 +89,11 @@
 ---
 
 ![inline 180%](img/yesterday.jpg)
+
+^ Meet Mark.
+^ Mark is a Manager.
+^ The story goes like this...
+^ On Monday Mark approaches you...
 
 ---
 
@@ -284,7 +298,7 @@
 
 ## [fit] No increase 
 # [fit] in the _**quality**_
-## [fit] of the product. 
+## [fit] of the product
 
 ---
 
@@ -334,25 +348,13 @@
 
 ---
 
-# [fit] _**Direct impact**_
-# [fit] in the _**quality**_ 
-# [fit] of your life
-
----
-
 # [fit] Follow the 
 # [fit] money
 
 ^ Where is the money being spent?
 ^ Is it being spent on all these perks that I discussed?
 ^ Or is it being spent on other areas? What are those?
-
----
-
-![fit](img/axiomzen.png)
-
-^ So looking for this kind of things in 2015 I joined Axiom Zen.
-^ Identify a company with this?
+^ So where do we spend our money at Axiom Zen?
 
 ---
 
@@ -383,8 +385,18 @@
 
 ---
 
+# [fit] _**Direct impact**_
+# [fit] in the _**quality**_ 
+# [fit] of your life/work
+
+---
+
 ## [fit] Work in a company 
 # [fit] that _**values quality**_
+
+^ Not only the quality of the work you do
+^ But also the quality of the life of their employers
+^ Because that's going to have an impact in the quality of the projects you work on.
 
 ---
 
@@ -418,17 +430,20 @@
 
 ---
 
-# [fit] We don't have managers
-# [fit] We have _**keepers**_
+# [fit] What does a 
+# [fit] _**manager**_ look like?
 
-^ A manager is a decision making role.
-^ A keeper is a safety role.
-^ A keeper is a facilitator, coordinator.
+^ A manager is usually a decision making role.
+^ For us is a safety role.
+^ For us is a facilitator, coordinator.
+^ That's why we call them keepers
 
 ---
 
 # [fit] More structure
-## [fit] Distributed responsibilities
+## [fit] _**Distributed responsibilities**_
+
+^ That means that is not only the manager role to 
 
 ---
 
@@ -437,24 +452,14 @@
 ---
 
 ## [fit] Good definition of
-# [fit] **requirements**
+# [fit] _**requirements [^4]**_
 
-^ Peopleware
+[^4]: Peopleware: Productive Projects and Teams by Tom DeMarco
 
 ----
 
 ## [fit] Requirements are met 
-# [fit] Good Quality
-
----
-
-## [fit] Spend time thinking 
-# [fit] what do to
-
----
-
-# [fit] And then _**prioritize**_
-# [fit] -- all of the time --
+# [fit] _**Good Quality**_
 
 ---
 
@@ -466,17 +471,23 @@
 
 ---
 
-> When interrupted, it takes an average of 23 minutes and 15 seconds to get back to the task. [^4]
+> # When interrupted, it takes an average of 23 mins to get back to the task. [^5]
 
-[^4]: [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
-
----
-
-# [fit] Work like you're remote.
+[^5]: [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
 
 ---
 
-# [fit] Rely on async tools
+# [fit] Work like 
+## [fit] _**you're remote**_
+
+---
+
+# [fit] Rely on 
+# [fit] _**async**_ tools
+
+^ You can be everywhere
+^ Don't rely on other people being present
+^ We have different offices.
 
 ---
 
@@ -487,31 +498,32 @@
 
 ---
 
-## [fit] _**Teams**_ are more important 
+## [fit] _**Teams**_ 
+## [fit] are more important 
 ### [fit] than _**projects**_
 
 ---
 
 ## [fit] It's hard to form 
-# [fit] a good team. 
+# [fit] _**a good team**_
 ### [fit] If it works, keep doing it!
+
+^ That means..
 
 ---
 
-# [fit] Form projects around teams
+# [fit] Form projects 
+# [fit] around teams
 ## [fit] _**not the other way around**_
 
 ^ Bash experience
 ^ Camo, Fernanda.
+^ A good team will continue being a good team regardless of the project
 
 ---
 
-## [fit] A good team will continue being a good team
-### [fit] regardless of the project
-
----
-
-# [fit] Creating good teams
+# [fit] _**Creating**_
+# [fit] good teams
 
 ---
 
@@ -534,8 +546,12 @@
 
 ---
 
-# Pull Requests 
-### and 
+# [fit] Standards
+
+---
+
+# Pull Requests
+### _**and**_
 # Code Reviews
 
 ^ These are one of the best ways to share knowledge
@@ -560,9 +576,9 @@
 
 ---
 
-![inline 50%](img/steve.jpg) [^5]
+![inline 50%](img/steve.jpg) [^6]
 
-[^5]: [What comes after VIPER? by Steve Powell](https://youtu.be/B30rHcVXfO8)
+[^6]: [What comes after VIPER? by Steve Powell](https://youtu.be/B30rHcVXfO8)
 
 ---
 
@@ -571,9 +587,12 @@
 
 ---
 
-![inline 50%](img/camo.jpg) [^6]
+![inline 50%](img/camo.jpg) [^7]
 
-[^6]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
+[^7]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
+
+^ This talk is in Spanish
+^ But Camo is here
 
 ---
 
@@ -584,7 +603,7 @@
 
 ---
 
-# [fit] Story time!
+# [fit] _**Story time!**_
 ## Wisdom teeth removal
 
 ---
@@ -597,9 +616,11 @@
 
 ---
 
-# [fit] Say **no** [^7]
+# [fit] Say no [^8]
 
-[^7]: Robert C. Martin - The Clean Coder
+^ But explain why
+
+[^8]: Robert C. Martin - The Clean Coder
 
 ---
 
@@ -608,10 +629,11 @@
 ^ Equally as what happened with my dentist. The professional thing to say is No.
 ^ If the scope is too big. Say no.
 ^ If there's not enough time. Say no.
+^ Add more people, since you have standards.
 
 ---
 
-> "But we really, really need this by Friday"
+> But we really, really need this by Friday
 -- Someone, right now.
 
 ^ If the stakes are high, then specially this is the moment to say no. If we really really need this for friday we need to be clear and professional to tell immediately when something is going wrong.
@@ -637,7 +659,8 @@
 
 ---
 
-# [fit] **Quality first**
+# [fit] Quality 
+# [fit] _**first**_
 
 ^ Focus on quality first
 
@@ -675,15 +698,10 @@
 
 ---
 
-# [fit] TLDR
-
----
-
-![](img/slow-down.jpg)
-
----
-
 # [fit] Danke schön
 
-# _**franciscodiaz.cl**_
-# @fco_diaz
+## @fco_diaz
+## franciscodiaz.cl
+
+
+<sup>*bennygiang, yasminenadery, callmenick, mackflavelle, aznick, fkenji, kcfitz, pierrebeugnot, azenMatt, kimcope, FerRZ, WrenHandman, camovrbz, guilegaspar, s-powell, pazams, alecmorgana, hexiumz, chrisaxiom, jfmaggie, EricLin2004, turbolent, roham, annatangzhao, Cassidy-Robertson, ziacastillo, kinhderella, acroca, dete, ni-ko1, danidiazreyna, arthurcamara1, Mathieuu, creedarky*</sub>
