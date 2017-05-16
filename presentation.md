@@ -48,12 +48,13 @@
 # [fit] _**My experience**_
 ## [fit] Not a scientific paper
 
-^ In this talk I'll discuss my journey and my thoughts about iOS development in particular and how to create good code in general.
+^ My journey
 ^ This has worked for my, with my background.
-^ I haven't done any scientific research on this, so this is purely based on experience.
+^ These are not RULES.
+^ Who am I?
 
 ---
-# [fit] Francisco 
+# [fit] Francisco
 # [fit] Díaz
 
 # _**franciscodiaz.cl**_
@@ -63,15 +64,18 @@
 ^ I'm 30
 ^ I started doing iOS Development in 2010
 ^ Santiago, Chile
+^ Work at AZ.
+^ First South American speaker of UIKonf.
 
 ---
 
 ![inline 50%](img/axiomzen.png)
 
 ^ I work at Axiom Zen.
-^ We're currently around 60 people
-^ Between 5-10 iOS developers
-^ We strive for quality.
+^ We're currently around 60 people.
+^ Between 5-10 iOS developers.
+^ We do small EXPERIMENTS, among other things.
+^ We're constantly building new PROTOTYPES.
 
 ---
 
@@ -79,6 +83,8 @@
 
 ## Chapter zero
 # **Quality**
+
+^ But I said this talk was about quality.
 
 ---
 
@@ -94,6 +100,7 @@
 ^ Mark is a Manager.
 ^ The story goes like this...
 ^ On Monday Mark approaches you...
+^ Estimation.
 
 ---
 
@@ -104,9 +111,9 @@
 ## [fit] Work faster
 ## [fit] _**Lose product quality**_
 
-^ Don't wait for CI
-^ No PR
-^ No design
+^ Don't wait for CI.
+^ No PR.
+^ No design.
 
 ---
 
@@ -117,8 +124,8 @@
 ## [fit] Work longer
 ## [fit] _**Lose quality of life**_
 
-^ Work for a living - Living to work
-^ Burndown
+^ Work for a living - Living to work.
+^ Burnout.
 
 ---
 
@@ -128,9 +135,11 @@
 
 ![inline 200%](img/marty-yesterday.jpg)
 
+^ Buy a Delorean and go back in time.
+
 ---
 
-> Look at all these shitty lines of code I wrote today!
+> Look at all these shitty lines of code I just wrote!
 -- No one, ever.
 
 ^ Quien se jacta de esto?
@@ -141,13 +150,17 @@
 ## [fit] the _**quality of our work**_
 ### [fit] Not the quantity
 
-^ Elegante
-^ Proud developer creates better work
+^ Elegant.
+^ Beautiful.
+^ Proud developer creates better work.
 
 ---
 
 ### [fit] _**Less quality**_
 ## [fit] More production bugs
+
+^ Not catching them in design time, since there's no design.
+^ Not catching them on implementation, since you're skipping best practices.
 
 ---
 
@@ -164,6 +177,8 @@
 ---
 
 # [fit] 100x
+
+^ Use that time into building new stuff.
 
 ---
 
@@ -264,8 +279,8 @@
 # [fit] Startup!
 
 ^ So, as you're probably guessing.
-^ I entered the startup world.
-^ I've discovered more perks
+^ I entered the ONLY WORKPLACE WHERE this is OK.
+^ I've been in the industry for longer, and discovered some more Perks
 
 ---
 
@@ -293,6 +308,10 @@
 ## [fit] as _**bribes**_ 
 
 [^2]: [5 Ridiculous Employee Perks That Could Backfire](https://www.inc.com/jt-odonnell/5-over-the-top-employee-perks-that-could-backfire.html)
+
+^ I was reading an ARTICLE.
+^ I'm a grown men.
+^ But more importantly...
 
 ---
 
@@ -380,8 +399,8 @@
 ## [fit]  Allocate time to
 # [fit] _**study**_
 
-^ As a developer you need to be learning constantly
-^ I want to work for a company that not only recognizes, but promotes it allocating work time for this.
+^ As a developer you need to be LEARNING CONSTANTLY.
+^ I want to work for a company that not only RECOGNIZES, but PROMOTES it allocating work time for this.
 
 ---
 
@@ -396,7 +415,7 @@
 
 ^ Not only the quality of the work you do
 ^ But also the quality of the life of their employers
-^ Because that's going to have an impact in the quality of the projects you work on.
+^ Because that's going to have an impact in the QUALITY of the PROJECTS you work on.
 
 ---
 
@@ -416,6 +435,7 @@
 
 ^ Natural roles of leadership
 ^ For experience, knowledge, etc.
+^ New employees don't know who to ask.
 
 ---
 
@@ -443,7 +463,7 @@
 # [fit] More structure
 ## [fit] _**Distributed responsibilities**_
 
-^ That means that is not only the manager role to 
+^ That means that is not only the manager role to care for the project. Is everybody that's involved.
 
 ---
 
@@ -456,6 +476,8 @@
 
 [^4]: Peopleware: Productive Projects and Teams by Tom DeMarco
 
+^ Quality starts with a good definition of requirements.
+
 ----
 
 ## [fit] Requirements are met 
@@ -465,9 +487,16 @@
 
 # [fit] Short iterations
 
+^ We want to be as TRANSPARENT as possible about how the project's quality is going.
+^ Every iteration, strive for quality.
+
+
 ---
 
 # [fit] Context switching
+
+^ One of the biggest problems as a developer of working in an OFFICE.
+^ Tap on the shoulder.
 
 ---
 
@@ -480,6 +509,9 @@
 # [fit] Work like 
 ## [fit] _**you're remote**_
 
+^ Instead of tapping -> Slack.
+
+
 ---
 
 # [fit] Rely on 
@@ -487,7 +519,9 @@
 
 ^ You can be everywhere
 ^ Don't rely on other people being present
-^ We have different offices.
+^ We have different OFFICES.
+^ We have people working from HOME.
+^ Work with your TEAM like they're NOT ONLINE.
 
 ---
 
@@ -502,13 +536,19 @@
 ## [fit] are more important 
 ### [fit] than _**projects**_
 
+^ We work with PEOPLE.
+^ People doesn't get along easily for long periods of time.
+^ Good technical skills not necessarly are good team players.
+
 ---
 
 ## [fit] It's hard to form 
 # [fit] _**a good team**_
 ### [fit] If it works, keep doing it!
 
-^ That means..
+^ That's why its hard to form good teams.
+^ 2 talented developers in a ROOM. 
+^ They might LIKE each other or HATE.
 
 ---
 
@@ -516,19 +556,22 @@
 # [fit] around teams
 ## [fit] _**not the other way around**_
 
-^ Bash experience
-^ Camo, Fernanda.
 ^ A good team will continue being a good team regardless of the project
+^ I see a lot of companies doing that
 
 ---
 
 # [fit] _**Creating**_
 # [fit] good teams
 
+^ So how do we try to create good teams at AZ.
+
 ---
 
-# [fit] Keep'em 
+# [fit] Keep'em
 #### small
+
+^ 5-10 people.
 
 ---
 
@@ -540,7 +583,7 @@
 
 ^ Every week we allocate 1 hour for our iOS study group.
 ^ In there we discuss different topics
-^ We agree on standards
+^ We agree on STANDARDS
 ^ We share what we worked on last week
 ^ We discuss everything
 
@@ -554,7 +597,9 @@
 ### _**and**_
 # Code Reviews
 
-^ These are one of the best ways to share knowledge
+^ SwiftLint
+^ Set of rules that we enforce with Danger.
+^ Focus on what's not automated.
 
 ---
 
@@ -591,6 +636,7 @@
 
 [^7]: [Xcode Templates por Camilo Vera](https://youtu.be/_ywYG9tN12w)
 
+^ iOS Templates -> Xcode Templates
 ^ This talk is in Spanish
 ^ But Camo is here
 
@@ -600,6 +646,8 @@
 
 # Chapter four
 ## **The Developer**
+
+^ Finally. The developer.
 
 ---
 
@@ -629,14 +677,14 @@
 ^ Equally as what happened with my dentist. The professional thing to say is No.
 ^ If the scope is too big. Say no.
 ^ If there's not enough time. Say no.
-^ Add more people, since you have standards.
 
 ---
 
 > But we really, really need this by Friday
 -- Someone, right now.
 
-^ If the stakes are high, then specially this is the moment to say no. If we really really need this for friday we need to be clear and professional to tell immediately when something is going wrong.
+^ We can change the scope
+^ We can add more people, since you have standards.
 
 ---
 
