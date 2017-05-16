@@ -444,6 +444,8 @@
 
 [^3]: [Cut the bullshit: organizations with no hierarchy don’t exist](https://medium.com/ouishare-connecting-the-collaborative-economy/cut-the-bullshit-organizations-with-no-hierarchy-dont-exist-f0a845e73a80)
 
+^ Hearsay
+
 ---
 
 # [fit] Make it _**explicit**_
@@ -653,6 +655,9 @@
 
 # [fit] _**Story time!**_
 ## Wisdom teeth removal
+
+^ 3 weeks ago I got 2 of my wisdom teeth removed.
+^ A week before travelling I wanted to take my other 2 out.
 
 ---
 
